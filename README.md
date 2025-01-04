@@ -1,6 +1,6 @@
 # 简单订单管理系统 
 地址：https://github.com/lumosdong/west2-works/tree/master
-
+## 基本结构
 ## 1.JDBCUTILS
 
 包括获取连接，释放资源，事务管理等操作
